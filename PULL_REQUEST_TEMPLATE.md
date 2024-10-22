@@ -1,5 +1,5 @@
 ## Description
-Provide a brief description of the changes you made in this pull request.
+Our first pull to check everyone can pull
 
 ## Checklist (Has the following changes been made since the last pull?)
 
