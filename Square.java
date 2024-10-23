@@ -8,4 +8,8 @@ public class Square {
 	public double perimeter() {
 		return sidelength * 4;
 	}
+	
+	public double area() {
+		return sideLength * sideLength;
+	}
 }
