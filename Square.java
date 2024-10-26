@@ -6,7 +6,7 @@ public class Square {
 	}
 	
 	public double perimeter() {
-		return sidelength * 4;
+		return sideLength * 4;
 	}
 	
 	public double area() {
